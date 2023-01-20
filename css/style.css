@@ -1,0 +1,292 @@
+.title{
+  background-color: #ff4c68;
+  margin-top: -10px;
+  /* height: 100px; */
+  padding-top: 400px;
+   margin-bottom: 35px;
+}
+.tindoglink{
+  position: absolute;
+  margin-top: -345px;
+  margin-left: 170px;
+  font-size: 40px;
+  text-decoration: none;
+   color: white;
+  font-family: "ubuntu"
+}
+.abouttindog{
+  position: absolute;
+  float: left;
+  margin-left: 680px;
+  margin-top: -335px;
+
+}
+.aboutlink{
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px;
+  color: grey;
+  font-family: "Montserrat";
+
+}
+.aboutlink:hover{
+  color: white;
+}
+.aboutdogheading{
+  position: absolute;
+  font-size: 60px;
+  width: 31%;
+  margin-left: 173px;
+  margin-top: -240px;
+  margin-bottom: 100px;
+  line-height: 1.5;
+  font-family: 'Montserrat-Black', sans-serif;
+   color: white;
+}
+.aboutdog{
+  /* margin-top: 10px; */
+}
+.myButtonapple {
+  float: left;
+	box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	padding:11px 43px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+  margin-left: 153px;
+  margin-top: 125px;
+}
+.myButtonapple:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.myButtonapple:active {
+	position:relative;
+	top:1px;
+}
+.myButtonplaystore {
+  position: absolute;
+  float: left;
+	box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:21px;
+	font-weight:bold;
+	padding:11px 43px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+  margin-left: 10px;
+  margin-top: 125px;
+}
+.myButtonplaystore:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.myButtonplaystore:active {
+	position:relative;
+	top:1px;
+}
+
+
+.logoimage1{
+  position: absolute;
+  width: 32px;
+  left: 170px;
+  top: 530px;
+}
+.logoimage2{
+  position: absolute;
+  width: 32px;
+  left: 10px;
+  top: 6px;
+}
+.dogimage{
+  margin-left: 300px;
+  margin-top: -198px;
+  width: 19%;
+  transform: rotate(20deg);
+  padding-bottom: 50px;
+}
+.features{
+  margin-bottom: 0px;
+}
+.featurescolomn{
+  float: left;
+  margin: 75px;
+}
+.featuresimage{
+  width: 50px;
+}
+.featuresrow{
+  text-align: center;
+}
+.featuresheading{
+  font-family: "Montserrat";
+  font-size: 28px;
+}
+.featurespara{
+  font-family: "Montserrat";
+  font-size: 15px;
+  color: #8f8f8f;
+  width: 235px;
+}
+.feedback{
+  background-color: #ef8172;
+  margin-top: 350px;
+  /* margin-bottom: 20px; */
+}
+.feedbackheading{
+  text-align: center;
+  font-size: 32px;
+  font-family:"Montserrat";
+  line-height: 1.5;
+}
+.ladyimage{
+  margin-left: 450px;
+  border-radius: 195px;
+}
+.feedbackpara{
+  margin-left: 780px;
+  margin-top: -140px;
+  font-size: 20px;
+}
+.feedbackcolomn2{
+  text-align: center;
+  padding-bottom: 17px;
+}
+.companyimage{
+  width: 15%;
+  /* margin-top:140px; */
+  margin: 140px  20px 50px;
+}
+.companyimage1{
+  position: absolute;
+  margin-top: 180px;
+  margin-left: -60px;
+}
+.plan{
+  margin-top: 140px;
+
+}
+.planheading{
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Montserrat';
+}
+.planpara{
+  text-align: center;
+  font-family: 'Montserrat';
+  color: #8f8f8f;
+}
+.myButton1 {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:8px 70px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton1:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+.plancolomn{
+  float: left;
+  width: 20%;
+  margin-left: 59px;
+  padding-left: 69px;
+}
+.planrow{
+  text-align: center;
+  margin-top: 50px;
+}
+.border{
+  border: 2px solid;
+  background-color: #fff;
+}
+.topportion{
+  padding: 2px 20px;
+  background-color: rgba(0,0,0,.03);
+  border-bottom: 1px solid rgba(0,0,0,.125);
+
+}
+.topheading{
+  font-size: 28px;
+  font-family: 'Montserrat';
+}
+.midportion{
+  padding: 5px 10px;
+}
+.midheading{
+  font-size: 30px;
+  font-family: 'Montserrat';
+}
+.midpara{
+  font-size: 16px;
+  font-family: 'Montserrat';
+  color: #8f8f8f;
+  line-height: 1.5;
+}
+.myButton2 {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border:5px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:8px 24px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #ffffff;
+}
+.myButton2:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+.footerheading{
+  margin-right: 200px;
+  margin-top: 500px;
+  font-size: 28px;
+  font-family: 'Montserrat';
+}
+.footerpara{
+  color: #8f8f8f;
+  font-size: 15px;
+  font-family: 'Montserrat';
+  margin-bottom: 16px;
+}
